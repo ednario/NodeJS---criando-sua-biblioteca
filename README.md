@@ -1,2 +1,2 @@
 ## Alura
-## NodeJS---criando-sua-biblioteca
+## NodeJS criando sua biblioteca
